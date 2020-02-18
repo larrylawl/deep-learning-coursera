@@ -1,7 +1,7 @@
 <h1 align="center"> Deep Learning Specialisation by Coursera, deeplearning.ai </h1>
 
 <div align="center">
-  <img src="deeplearning-ai.png" width="400"/>
+  <img src="deeplearning-ai.png" width="300"/>
   <h3>
       <a href="https://www.coursera.org/specializations/deep-learning">Course Available Here</a>
   </h3>
@@ -48,10 +48,10 @@ My source code for the deep learning course offered by Professor Andrew Ng. Conc
 
 Separately, you can view my course notes [here,](https://larrylawl.github.io/notes/coursera-dl-notes.html) and my course certificates in the links below.
 
-1. [Course 1: Neural Networks and Deep Learning](https://coursera.org/share/0de3741618ea492fc02f421e900431ab)
-2. [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://coursera.org/share/651dc61fc3ad35686511eee98dc01a78)
-3. [Course 4: Convolutional Neural Networks](https://coursera.org/share/aff6660a09adacfe0e58f8941d7c0d6f)
-4. [Course 5: Sequence Models](https://coursera.org/share/f9414fbd3c174c8fbfba452344ab9705)
+1. [Course 1: Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/CWFWGPQKMHWL)
+2. [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/9EBTFVA4VHBW)
+3. [Course 4: Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/MMXN4JZTXSBP)
+4. [Course 5: Sequence Models](https://www.coursera.org/account/accomplishments/certificate/EBTT8MMCTD6C)
 
 ## Credits
 Much gratitude to Professor Andrew Ng, and his team at deeplearning.ai, for providing making AI accessible for all. 
